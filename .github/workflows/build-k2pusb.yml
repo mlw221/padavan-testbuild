@@ -1,4 +1,4 @@
-name: build-k2p-usb
+name: K2P-USB
 
 on: 
   push:
